@@ -11,6 +11,7 @@ Hello! I'm **Pawan Singh Rajwar**, a dedicated college student and an enthusiast
 ## **🛠️ Projects**  
 
 ### 1️⃣ [GUI Calculator](https://github.com/PawanRajwar/GUI_Calculator.git)  
+**Deployment Link**: [Click Here](https://pawanrajwar.github.io/GUI_Calculator/)  
 **Features**:  
 - **Basic Calculator Functions**: Perform basic arithmetic operations like addition, subtraction, multiplication, and division, with support for decimal points and parentheses for complex expressions.  
 - **Dark Mode**: Includes a toggle for switching between light and dark modes, ensuring a comfortable user experience.  
@@ -20,6 +21,7 @@ Hello! I'm **Pawan Singh Rajwar**, a dedicated college student and an enthusiast
 ---
 
 ### 2️⃣ [GUI To-Do List](https://github.com/PawanRajwar/GUI_TO_DO_LIST.git)  
+**Deployment Link**: [Click Here](https://pawanrajwar.github.io/GUI_TO_DO_LIST/)  
 **Features**:  
 - **Task Management**: Add, delete, and clear tasks, with options to assign due dates and priority levels.  
 - **Automatic Persistent Storage**: Automatically saves tasks in a JSON file to prevent data loss.  
@@ -29,6 +31,7 @@ Hello! I'm **Pawan Singh Rajwar**, a dedicated college student and an enthusiast
 ---
 
 ### 3️⃣ [Catch the Ball Game](https://github.com/PawanRajwar/Catch-the-Ball-Game.git)  
+**Deployment Link**: [Click Here](https://pawanrajwar.github.io/Catch-the-Ball-Game/)  
 **Features**:  
 - **Interactive Gameplay**: Control the paddle using mouse movements for an engaging experience.  
 - **Progressive Difficulty**: Ball speed increases with the score, adding a challenging dynamic.  
@@ -38,6 +41,7 @@ Hello! I'm **Pawan Singh Rajwar**, a dedicated college student and an enthusiast
 ---
 
 ### 4️⃣ [Random Password Generator (RPG)](https://github.com/PawanRajwar/Random-Password-Generator-RPG-.git)  
+**Deployment Link**: [Click Here](https://pawanrajwar.github.io/Random-Password-Generator-RPG-/)  
 **Features**:  
 - **Random Password Generation**: Creates secure passwords of customizable length, including uppercase, lowercase, digits, and special characters.  
 - **User-Friendly Interface**: Provides a simple input for password length and one-click generation.  
